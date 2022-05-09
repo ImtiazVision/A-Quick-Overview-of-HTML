@@ -6,3 +6,7 @@
   - `<html>` is used to construct an HTML 
   - `<title>` is a tag that appears at the top of the browser as the title
   - `<body>` includes the text shown on the browser
+  - `<! Doctype>` is a declaration tag that informs the browser about the kind of content that is being read
+  - `<html>` initiate an html document
+  - `<header>` is a header element
+  - `<body>` refers to the body of an html document
