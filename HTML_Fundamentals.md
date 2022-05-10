@@ -11,3 +11,5 @@
   - `<html>` initiate an html document
   - `<header>` is a header element
   - `<body>` refers to the body of an html document
+
+**Block-level Elements**: A Block-level element takes up the whole horizontal space of its parent element (container) as well as the vertical space equal to the height of its contents, resulting in the formation of a "block." Unlike other elements, a block-level element always begins on a new line and occupies the whole available width (stretches out to the left and right as far as it can). Block-level elements are only permitted to exist inside the `<body>` element.
