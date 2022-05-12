@@ -13,3 +13,4 @@ HTML tags are represented as `<h1>` to `<h6>`. The top level heading is `<h1>`, 
 The image tag is an empty tag that should always have two main attributes:
   - **src**: The path to the image, either relative or absolute.
   - **alt**: Alternative text to be used with screen readers or any time the image cannot be displayed.
+For example, `<img src="img/demo.jpg" alt="demo" />`
