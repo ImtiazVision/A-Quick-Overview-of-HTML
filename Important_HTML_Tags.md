@@ -21,3 +21,16 @@ For example, `<img src="img/demo.jpg" alt="demo" />`
 The anchor tag, which is used to connect to other pages. This tag should have a href property providing the path to the linked page (absolute or relative). As an example:
 
   `<a href="https://google.com">Google</a>` 
+
+### `<ul>` tag
+
+The unordered list tag is used for a list when the order is irrelevant. Most browsers will display this as a bulleted list by default.
+The unordered list may have any number of `<li>` tags. As an example:
+```
+<ul>
+    <li>Milk</li>
+    <li>Cheese</li>
+    <li>Fruit</li>
+    <li>Fish</li>
+</ul>
+```
