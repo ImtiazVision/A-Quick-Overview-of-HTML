@@ -8,3 +8,8 @@ HTML tags are represented as `<h1>` to `<h6>`. The top level heading is `<h1>`, 
   `<h1>Primary Heading</h1>`
   
   `<h2> Secondary Heading</h2>`
+### `<img>` tag
+
+The image tag is an empty tag that should always have two main attributes:
+  - **src**: The path to the image, either relative or absolute.
+  - **alt**: Alternative text to be used with screen readers or any time the image cannot be displayed.
